@@ -1,5 +1,5 @@
 # 정렬 알고리즘
-[정렬 정리 링크](https://www.notion.so/1-2e6103c0763380be84aaee631d54713b?v=2ca103c0763380029132000c4a7722ba&source=copy_link)
+[정렬 정리 링크](https://www.notion.so/1-2e6103c0763380be84aaee631d54713b?source=copy_link)
 
 ### 2026-01-12
 - 파이썬 내장 정렬 함수
