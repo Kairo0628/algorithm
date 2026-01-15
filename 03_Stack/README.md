@@ -4,8 +4,8 @@
 ### 2026-01-15
 - **stack.py**
     > is_empty / is_full / peek / push / pop / display
+- **vaild_parentheses.py**: 괄호 유효성 검사
 
 ## 추가할 사항
-- 괄호 유효성 검사
 - 중위 -> 후위
 - 후위 계산
