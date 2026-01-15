@@ -32,19 +32,3 @@ class Stack:
         
     def display(self):
         print(self.stack[::-1])
-
-stack = Stack(3)
-print(stack.is_empty())
-print(stack.is_full())
-
-stack.push(15)
-stack.push(42)
-stack.push(66)
-#stack.push(79)
-stack.display()
-
-print(stack.is_empty())
-print(stack.is_full())
-
-print(stack.pop())
-stack.display()
