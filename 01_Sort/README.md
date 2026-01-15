@@ -10,3 +10,7 @@
 
 ### 2026-01-13
 - 퀵 정렬
+
+## 추가할 사항
+- Counter Sort
+- Radix Sort

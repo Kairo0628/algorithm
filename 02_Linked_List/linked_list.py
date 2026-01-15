@@ -75,7 +75,7 @@ class LinkedList:
         new_last.next = self.tail
 
         self.size += other.size
-
+        
 x = Node(16)
 y = Node(27)
 z = Node(34)
