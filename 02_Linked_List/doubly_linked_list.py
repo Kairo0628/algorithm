@@ -83,7 +83,9 @@ class DoublyLinkedList:
 
         curr_last.next = other_first
         other_first.prev = curr_last
-        self.tail = other.tail
+
+        other_last = other.tail.prev
+        other_last.next = self.tail
 
         self.size += other.size
 
