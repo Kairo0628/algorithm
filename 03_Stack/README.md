@@ -6,6 +6,10 @@
     > is_empty / is_full / peek / push / pop / display
 - **vaild_parentheses.py**: 괄호 유효성 검사
 
+### 2026-01-22
+- **notation.ipynb**
+    - 전위, 후위 표기법 -> 중위 표기법 변환
+    - 전위, 후위 표기식 계산
+
 ## 추가할 사항
-- 중위 -> 후위
-- 후위 계산
+- 중위 -> 전위, 후위로 변환(역변환)
