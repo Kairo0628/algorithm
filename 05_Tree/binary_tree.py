@@ -79,3 +79,15 @@ class BinaryTree():
     def post_order(self):
         print('post-order traversal start')
         return self.root.post_order()
+    
+    def bfs(self):
+        print('bfs start')
+        queue = []
+        queue.append(self.root)
+        while queue:
+            item = queue.pop(0)
+            print(item.data)
+            if item.left:
+                queue.append(item.left)
+            if item.right:
+                queue.append(item.right)
